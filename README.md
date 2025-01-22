@@ -9,17 +9,17 @@ This project demonstrates a quantitative trading strategy development process us
     - Non-stationary features.
     - Features with correlations above 0.7.
 
-3.Data Splitting and Scaling:
-  - Split the data into training and testing sets.
-  - Applied scaling to normalize feature distributions.
+3. Data Splitting and Scaling:
+    - Split the data into training and testing sets.
+    - Applied scaling to normalize feature distributions.
 
 4. Clustering:
-  - Used K-Means clustering to find optimal clusters in the dataset.
-  - Determined the number of clusters using the Elbow Method.
+    - Used K-Means clustering to find optimal clusters in the dataset.
+    - Determined the number of clusters using the Elbow Method.
 
 5. Signal Generation:
-  - Generated trading signals based on cluster labels and 15-period future returns.
+    - Generated trading signals based on cluster labels and 15-period future returns.
 
-6. Strategy Evaluation:
-  - Computed strategy profitability.
-  - Presented detailed trade-wise Profit and Loss (P&L) analysis.
+7. Strategy Evaluation:
+    - Computed strategy profitability.
+    - Presented detailed trade-wise Profit and Loss (P&L) analysis.
