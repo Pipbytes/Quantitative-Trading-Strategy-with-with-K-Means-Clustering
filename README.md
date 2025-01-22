@@ -23,3 +23,6 @@ This project demonstrates a quantitative trading strategy development process us
 7. Strategy Evaluation:
     - Computed strategy profitability.
     - Presented detailed trade-wise Profit and Loss (P&L) analysis.
+
+Note:
+I'm currently rewriting the trading strategy code using Object-Oriented Programming (OOP) principles to enhance the backtesting process. This approach will modularize the code, improve its scalability, and make it easier to integrate new features like custom strategies, risk management, and performance evaluation. The refactor will also facilitate cleaner, more maintainable code for future development.
