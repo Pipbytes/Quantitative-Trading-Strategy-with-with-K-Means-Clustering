@@ -18,7 +18,7 @@ This project demonstrates a quantitative trading strategy development process us
 - Determined the number of clusters using the Elbow Method.
 
 ## Signal Generation
-- Generated trading signals based on cluster labels and 15-period future returns.
+- Generated trading signals based on cluster labels and user-defined future returns.
 
 ## Strategy Evaluation:
 - Computed strategy profitability.
